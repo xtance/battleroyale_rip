@@ -1,0 +1,47 @@
+"Phrases"
+{
+	"sInvulnerable"
+	{
+		"#format"   "{1:i}"
+        "en"        "You're invincible for {1} sec.\nSearch for weapons in crates!"
+        "ru"        "Ты неуязвим ещё {1} сек.\nИщи на карте оружие в ящиках!"
+	}
+	"sSafeFloor"
+	{
+		"#format"   "{1:i},{2:i}"
+        "en"        "Get to the Safe Floor {1}!\nYour Floor: {2}"
+        "ru"        "Беги на безопасный этаж {1}!\nТвой этаж: {2}"
+	}
+	"sDamage"
+	{
+        "en"        "You got -5 XP damage."
+        "ru"        "Ты получил урон -5 хп."
+	}
+	"sFloorOk"
+	{
+		"#format"   "{1:i}"
+        "en"        "You're on the Safe Floor {1}!"
+        "ru"        "Отлично, ты на безопасном {1} этаже!"
+	}
+	"sKnife"
+	{
+		"en"		"You're in Knife Arena!\nWait till round end, \nto play in Survival Mode!"
+		"ru"		"Ты на Knife Арене!\nПодожди конца раунда, \nчтобы играть в Выживание!"
+	}
+	"sZoneHurt"
+	{
+		"en"		"Don't touch the wall!"
+		"ru"		"Не касайся стены, или тебе пиздец!"
+	}
+	"sAttention"
+	{
+		"#format"   "{1:i}"
+		"en"		"Attention:\nRestricting the play area in {1} sec.!"
+		"ru"		"Внимание:\nОграничение игровой области через {1} сек.!"
+	}
+	"sKilled"
+	{
+		"en"		"Killed for being outside of Zone!"
+		"ru"		"Убит за нахождение вне Зоны!"
+	}
+}
